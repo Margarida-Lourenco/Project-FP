@@ -1,2 +1,2 @@
-# Projeto-FP
+# Project-FP
 First programming project
